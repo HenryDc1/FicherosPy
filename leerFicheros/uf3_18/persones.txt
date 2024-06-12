@@ -1,0 +1,18 @@
+Nom: Henry
+Cognoms: Doudo
+NIF: 123123
+Edat: 24
+Alzada: 1.85
+
+Nom: Seket
+Cognoms: Llata
+NIF: 1231241
+Edat: 22
+Alzada: 1.60
+
+Nom: Viki
+Cognoms: Caicedo
+NIF: 12312412
+Edat: 15
+Alzada: 1.56
+

@@ -1,0 +1,4 @@
+Nombre,Apellido,Edad,Ciudad
+Juan,Perez,30,Madrid
+Maria,Gonzalez,25,Barcelona
+Pedro,Rodriguez,35,Valencia
